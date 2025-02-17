@@ -26,7 +26,10 @@
 
   .image-section {
     flex: 1;
-    background-image: url(../image/car-2.avif) ;
+    background-image: url('../image/car-2.jpg');
+    background-size: cover;  
+    background-position: center;  
+ 
   }
 
   .signup-section {
