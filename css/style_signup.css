@@ -26,8 +26,8 @@
 
   .image-section {
     flex: 1;
-    background: url(../image/car-2\(mercedesgclass\).avif)
-      center/cover;
+    background-image: url(../image/car-2\(mercedesgclass\).avif)
+  ;
   }
 
   .signup-section {
