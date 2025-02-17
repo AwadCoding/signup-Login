@@ -26,8 +26,7 @@
 
   .image-section {
     flex: 1;
-    background-image: url(../image/car-1.avif)
-     ;
+    background-image: url(../image/car-1.avif);
   }
 
   .login-section {
