@@ -26,7 +26,7 @@
 
   .image-section {
     flex: 1;
-    background: url(/image/car.avif)
+    background: url(../image/car.avif)
       center/cover;
   }
 
